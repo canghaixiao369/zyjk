@@ -3,13 +3,13 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/canghaixiao369/zyjk/main/tv/mtv.txt",
+            "url": "./tv/mtv.txt",
             "playerType": 1,
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "spider": "https://ghcy.eu.org/https://raw.githubusercontent.com/canghaixiao369/zyjk/main/jar/spider.jar",
+    "spider": "./jar/spider.jar",
     "sites": [
          
         
