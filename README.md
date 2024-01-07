@@ -1,24 +1,30 @@
 整理的地址
+
 1、给英文不好的朋友
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
 Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
+
 2、Github RAW 加速服务
 源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
 香港 https://raw.iqiq.io/用户名/仓库名/main/接口文件
 新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
+
 日本
 https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 https://raw.fastgit.org/用户名/仓库名/main/接口文件
+
 韩国
 https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
 https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
+
 3，Github 静态加速
 https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
 4、EGP源
 http://epg.51zmt.top:8000/e.xml
 https://epg.112114.xyz/pp.xml
@@ -39,6 +45,7 @@ epg7：(https://epg.112114.xyz/)
 超级直播
 Xml格式
 Xml格式
+
 5、开源仓库
 https://github.com/
 https://gitlab.com/
@@ -48,6 +55,7 @@ https://gitcode.net/
 https://gitea.com/   仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
 https://agit.ai/
 https://notabug.org/
+
 6、短地址平台
 （1）https://short.io
 （2）http://88d.cn
@@ -59,6 +67,7 @@ https://notabug.org/
 （8）https://suowo.cn
 （9）https://0a.fit/
 （10）https://www.urlc.cn/
+
 7、TVBox各路大佬配置（排名不分先后）：
 （1）唐三：https://hutool.ml/tang
 （2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
@@ -84,6 +93,7 @@ https://notabug.org/
 （22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
 （23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
 （24）肥猫：http://我不是.肥猫.love:63
+
 8、随机轮换壁纸：
 （1）https://bing.img.run/rand.php
 （2）http://www.kf666888.cn/api/tvbox/img
