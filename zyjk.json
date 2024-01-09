@@ -1521,8 +1521,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./JSon/吾爱牙齿.json",
-            "jar": "./jar/公众号吾爱有三日月与卿0723.jar"
+            "ext": "./json/吾爱牙齿.json",
+            "jar": "./jar/spider.jar"
         },
         {
             "key": "软件教程",
