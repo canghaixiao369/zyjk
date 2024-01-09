@@ -22,6 +22,19 @@
             "api": "./JS/lib/drpy.min.js",
             "ext": "./JS/lib/腾云驾雾.js"
         },
+
+        {
+            "key": "车载DJ",
+            "name": "🅱┃吾爱┃车载DJ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱车载DJ.json",
+            "jar": "./jar/spider.jar"
+        },
+        
         {
             "key": "drpy_js_酷酷",
             "name": "🐥优蛋(官源)",
